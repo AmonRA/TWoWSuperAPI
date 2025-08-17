@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: SuperAPI |cFFFF8080-balake-|r
+## Title: TWoWSuperAPI |cFFFF8080-balake-|r
 ## Notes: the companion compatibility addon to the mod of the same name.
 ## Author: balake
 ## SavedVariablesPerCharacter: SuperAPIDB
@@ -21,5 +21,5 @@ libs\Dewdrop\Dewdrop-2.0.lua
 libs\Tablet\Tablet-2.0.lua
 libs\FuBarPlugin\FuBarPlugin-2.0.lua
 
-SuperAPI.lua
-SuperAPIOptions.lua
+TWoWSuperAPI.lua
+TWoWSuperAPIOptions.lua
